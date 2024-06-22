@@ -15,6 +15,7 @@
   </div>
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathanribeiro&show_icons=true&theme=transparent)
+<img align="right" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haseocross&layout=compact&langs_count=16&theme=great-gatsby"/>
 
 
 ### Tools:
@@ -23,6 +24,8 @@
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
 ![Android Studio](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)&nbsp;
+
+![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
 
 <div align="center">
 <br><p align="centre"><b>Galera de passagem</b></p>  
