@@ -15,7 +15,7 @@
   </div>
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathanribeiro&show_icons=true&theme=transparent)
-<img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haseocross&layout=compact&langs_count=16&theme=great-gatsby"/>
+<img align="right" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haseocross&layout=compact&langs_count=16&theme=great-gatsby"/>
 
 
 ### Tools:
